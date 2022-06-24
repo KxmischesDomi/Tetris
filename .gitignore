@@ -118,3 +118,4 @@ buildNumber.properties
 # End of https://www.toptal.com/developers/gitignore/api/git,maven,intellij+all
 
 artifacts/
+data.json
